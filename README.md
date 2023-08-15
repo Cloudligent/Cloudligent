@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cloudligent
 - 👀 I’m interested in programming and theology
-- 🌱 I’m currently learning shopify theme editing and creation
-- 💞️ I’m looking to collaborate on game projects
+- 🌱 I’m currently learning node.js and express
+- 💞️ I’m looking to collaborate on game projects\
 - 📫 How to reach me: natepguiger@gmail.com
 
 <!---
